@@ -5,4 +5,7 @@ public class Test {
 		System.out.println("Test.x()");
 	}
 
+	public void y() {
+		System.out.println("Test.y()");
+	}
 }
