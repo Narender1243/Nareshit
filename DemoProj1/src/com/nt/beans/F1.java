@@ -12,5 +12,8 @@ public class F1 {
 		System.out.println("F1.m3()");
 
 	}
+	public void m4() {
+		System.out.println("F1.m4()");
+	}
 
 }
