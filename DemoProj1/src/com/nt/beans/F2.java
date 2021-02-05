@@ -9,5 +9,8 @@ public class F2 {
 	public void reuse() {
 		System.out.println("F2.reuse()");
 	}
+	public void m4() {
+		System.out.println("F2.m4()");
+	}
 
 }
