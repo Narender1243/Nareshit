@@ -6,4 +6,8 @@ public class F2 {
 		System.out.println("F2.f2()");
 	}
 
+	public void reuse() {
+		System.out.println("F2.reuse()");
+	}
+
 }
